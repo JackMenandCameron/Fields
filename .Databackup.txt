@@ -1,0 +1,19 @@
+Xmin = -10
+Xmax = 10
+Ymin = -10
+Ymax = 10
+_____
+
+Insert point
+x, y, value of charge
+
+(charge in nC)
+
+_____
+0,0,1
+
+
+_____
+
+1,0
+
